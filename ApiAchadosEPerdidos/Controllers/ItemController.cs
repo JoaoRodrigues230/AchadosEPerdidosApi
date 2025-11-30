@@ -22,7 +22,8 @@ namespace ApiAchadosEPerdidos.Controllers
                 .AsNoTracking()
                 .Include(i => i.Categoria)
                 .Include(i => i.Local)
-                .Include(i => i.Usuarioqueachouid)
+                .Include(i => i.Usuarioqueachou)
+                .Include(i => i.Imagem)
                 .OrderByDescending(i => i.Dataachado)
                 .Take(12)
                 .ToListAsync();
@@ -35,7 +36,8 @@ namespace ApiAchadosEPerdidos.Controllers
                 .AsNoTracking()
                 .Include(i => i.Categoria)
                 .Include(i => i.Local)
-                .Include(i => i.Usuarioqueachouid)
+                .Include(i => i.Usuarioqueachou)
+                .Include(i => i.Imagem)
                 .FirstOrDefaultAsync(i => i.Id == id);
 
             if (item == null)

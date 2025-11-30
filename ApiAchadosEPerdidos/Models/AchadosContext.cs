@@ -204,17 +204,30 @@ public partial class AchadosContext : DbContext
 
             entity.ToTable("usuario");
 
+            entity.HasIndex(e => e.Cpf, "uq_usuario_cpf").IsUnique();
+
+            entity.HasIndex(e => e.Ra, "uq_usuario_ra").IsUnique();
+
             entity.HasIndex(e => e.Email, "usuario_email_key").IsUnique();
 
             entity.Property(e => e.Id)
                 .HasDefaultValueSql("gen_random_uuid()")
                 .HasColumnName("id");
+            entity.Property(e => e.Cpf)
+                .HasMaxLength(20)
+                .HasColumnName("cpf");
             entity.Property(e => e.Email)
                 .HasMaxLength(100)
                 .HasColumnName("email");
             entity.Property(e => e.Nome)
                 .HasMaxLength(100)
                 .HasColumnName("nome");
+            entity.Property(e => e.Ra)
+                .HasMaxLength(20)
+                .HasColumnName("ra");
+            entity.Property(e => e.Senha)
+                .HasMaxLength(255)
+                .HasColumnName("senha");
             entity.Property(e => e.Tipo)
                 .HasMaxLength(20)
                 .HasColumnName("tipo");

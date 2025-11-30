@@ -6,6 +6,7 @@ C:\Users\prspa\OneDrive\Ambiente de Trabalho\AchadosEPerdidosApi\ApiAchadosEPerd
 C:\Users\prspa\OneDrive\Ambiente de Trabalho\AchadosEPerdidosApi\ApiAchadosEPerdidos\bin\Debug\net9.0\ApiAchadosEPerdidos.runtimeconfig.json
 C:\Users\prspa\OneDrive\Ambiente de Trabalho\AchadosEPerdidosApi\ApiAchadosEPerdidos\bin\Debug\net9.0\ApiAchadosEPerdidos.dll
 C:\Users\prspa\OneDrive\Ambiente de Trabalho\AchadosEPerdidosApi\ApiAchadosEPerdidos\bin\Debug\net9.0\ApiAchadosEPerdidos.pdb
+C:\Users\prspa\OneDrive\Ambiente de Trabalho\AchadosEPerdidosApi\ApiAchadosEPerdidos\bin\Debug\net9.0\BCrypt.Net-Next.dll
 C:\Users\prspa\OneDrive\Ambiente de Trabalho\AchadosEPerdidosApi\ApiAchadosEPerdidos\bin\Debug\net9.0\Humanizer.dll
 C:\Users\prspa\OneDrive\Ambiente de Trabalho\AchadosEPerdidosApi\ApiAchadosEPerdidos\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\prspa\OneDrive\Ambiente de Trabalho\AchadosEPerdidosApi\ApiAchadosEPerdidos\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -91,6 +92,7 @@ C:\Users\prspa\OneDrive\Ambiente de Trabalho\AchadosEPerdidosApi\ApiAchadosEPerd
 C:\Users\prspa\OneDrive\Ambiente de Trabalho\AchadosEPerdidosApi\ApiAchadosEPerdidos\obj\Debug\net9.0\ApiAchadosEPerdidos.csproj.CoreCompileInputs.cache
 C:\Users\prspa\OneDrive\Ambiente de Trabalho\AchadosEPerdidosApi\ApiAchadosEPerdidos\obj\Debug\net9.0\ApiAchadosEPerdidos.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\prspa\OneDrive\Ambiente de Trabalho\AchadosEPerdidosApi\ApiAchadosEPerdidos\obj\Debug\net9.0\ApiAchadosEPerdidos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prspa\OneDrive\Ambiente de Trabalho\AchadosEPerdidosApi\ApiAchadosEPerdidos\obj\Debug\net9.0\ApiAchadosEPerdidos.sourcelink.json
 C:\Users\prspa\OneDrive\Ambiente de Trabalho\AchadosEPerdidosApi\ApiAchadosEPerdidos\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\prspa\OneDrive\Ambiente de Trabalho\AchadosEPerdidosApi\ApiAchadosEPerdidos\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\prspa\OneDrive\Ambiente de Trabalho\AchadosEPerdidosApi\ApiAchadosEPerdidos\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
